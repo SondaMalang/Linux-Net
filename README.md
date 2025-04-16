@@ -1,6 +1,6 @@
 # Linux & Networking Basics 🚀
 
-This repo documents my Week 1 hands-on learning in Linux CLI, basic networking, and Packet Tracer labs for CCNA prep.
+This repo documents my  hands-on learning in Linux CLI, basic networking, and Packet Tracer labs for CCNA prep.
 
 ## 📂 Structure
 - `linux-cli/`: Command-line exercises and notes
@@ -8,14 +8,14 @@ This repo documents my Week 1 hands-on learning in Linux CLI, basic networking, 
 - `certification/`: Cisco Intro to Cybersecurity notes
 
 ## 🛠️ Tools Used
-- Ubuntu 22.04 on VMware
+- Ubuntu 22.04 on VirtualBox
 - Cisco Packet Tracer
 - Git + GitHub
 
 ## ✅ Completed Labs
 - [x] LinuxJourney CLI Practice
 - [x] Cisco Packet Tracer Lab 1
-- [x] Cisco Intro to Cybersecurity (In Progress)
+- [x] Cisco Intro to Cybersecurity 
 
 ## 🔗 Useful Links
 - [LinuxJourney](https://linuxjourney.com)
